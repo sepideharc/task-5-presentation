@@ -24,8 +24,8 @@ The Persian Empire reached its greatest extent during the Achaemenid period foun
 </aside>
 
 # Antiquty Empires
-![Sassani](images/Presentation-images/Sassani)
-![Sassani](images/Presentation-images/Sassani1)
+![Sassani](images/Presentation-images/Sassani.jpg)
+![Sassani](images/Presentation-images/Sassani1.jpg)
 <aside class="notes">
 The Iranian realm fell to Alexander the Great in the fourth century BC, but reemerged shortly after as the Parthian Empire, followed by the Sasanian Empire, which became a leading world power for the next four centuries.
 </aside>
