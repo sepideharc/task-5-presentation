@@ -8,13 +8,13 @@
 ![flag](images/Presentation-images/Flag.jpg)
 ![Map](images/Presentation-images/map.jpg)
 <aside class="notes">
-Iran also formerly known as Persia is located in Wstern Asia.
+Iran also formerly known as Persia is located in Western Asia.
 </aside>
 
 # Prehistoric civilizations
 ![sites](images/Presentation-images/sites.jpg)
 <aside class="notes">
-Iran is home to one of the world's oldest civilizations, beginning with permenant settlements and villages from the tenth millenium BC and also the beginning of cities and formation of first states during the fourth millennium BC. 
+Iran is home to one of the world's oldest civilizations, beginning with permenant settlements and villages from the tenth millenium BCE and also the beginning of cities and formation of first states during the fourth millennium BCE. 
 </aside>
 
 # Achaemenid Empire
@@ -27,7 +27,7 @@ The Persian Empire reached its greatest extent during the Achaemenid period foun
 ![Sassani](images/Presentation-images/Sassani.jpg)
 ![Sassani](images/Presentation-images/Sassani1.jpg)
 <aside class="notes">
-The Iranian realm fell to Alexander the Great in the fourth century BC, but reemerged shortly after as the Parthian Empire, followed by the Sasanian Empire, which became a leading world power for the next four centuries.
+The Iranian realm fell to Alexander the Great in the fourth century BCE, but reemerged shortly after as the Parthian Empire, followed by the Sasanian Empire, which became a leading world power for the next four centuries.
 </aside>
 
 # Islamic Era
@@ -39,7 +39,8 @@ Arab Muslims conquered Iran in the seventh century AD, ultimately leading to the
 # The Modern Iran
 ![modern](images/Presentation-images/modern.jpg)
 
-# Have you ever wondered where the animosity between the American and Iranian government come from?
+# Have you ever wondered
+where the animosity between the American and Iranian government come from?
 ![USA](images/Presentation-images/USA.jpg)
 <aside class="notes">
 Although if you ever travel to Iran you will be very surprised to see how people especially the young people are obssessed with the American pop culture.
@@ -58,7 +59,7 @@ To gain a perspective let's go back in time.In 1953 a CIA staged coup overthrew 
  Growing dissent against foreign influence and political repression led to the 1979 Revolution, which followed the establishment of the currrent Islamic Republic. This fundamental change had numerous consequences that affected peopl's lives.
 </aside>
 
-# Peace not War 
+## Peace not War 
 ![zarif](images/Presentation-images/zarif.jpg)
 <aside class="notes">
 Despite all these  the Iranian government's  and people's goal is to establish a new world order based on world *peace*
